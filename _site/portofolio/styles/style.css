@@ -198,7 +198,7 @@ nav ul li a {
 
 .hero-right {
   display: flex;
-  justify-items: center;
+  justify-content: center;
 }
 
 /* Services Section */
